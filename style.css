@@ -1,7 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: #292524;
   color: #fafaf9;
   font-family: "Sono", sans-serif;
+}
+
+.header {
+  margin-bottom: 40px;
 }
 
 h1 {
@@ -13,6 +23,7 @@ h1 {
 .fact {
   font-size: 20px;
   line-height: 1.4;
+  margin-bottom: 16px;
   background-color: #44403c;
 }
 
